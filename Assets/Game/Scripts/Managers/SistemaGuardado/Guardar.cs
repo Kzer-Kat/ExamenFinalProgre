@@ -1,0 +1,13 @@
+using UnityEngine;
+
+public class Guardar : MonoBehaviour
+{
+    void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.F4))
+        {
+            GameManager.Instance.GuardarDatos();
+            SistemaGuardado.GuardarPartida();
+        }
+    }
+}

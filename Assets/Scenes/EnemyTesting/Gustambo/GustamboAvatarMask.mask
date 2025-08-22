@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GustamboAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Gustambo_geo
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Pelv_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Pelv_ctrl_grp/Pelv_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl/Head_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl/Head_ctrl_grp/Head_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl/L_clav_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl/L_clav_ctrl_grp/L_clav_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl/R_clav_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Center_ctrl_grp/Center_ctrl/Spine1_ctrl_grp/Spine1_ctrl/Spine2_ctrl_grp/Spine2_ctrl/Chest_ctrl_grp/Chest_ctrl/R_clav_ctrl_grp/R_clav_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_hand_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_hand_ctrl_grp/L_hand_ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_fingers_jnt_0grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_fingers_jnt_0grp/L_fingers_jnt_0Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_fingers_jnt_0grp/L_fingers_jnt_0Ctrl/L_fingers_jnt_1grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_fingers_jnt_0grp/L_fingers_jnt_0Ctrl/L_fingers_jnt_1grp/L_fingers_jnt_1Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_fingers_jnt_0grp/L_fingers_jnt_0Ctrl/L_fingers_jnt_1grp/L_fingers_jnt_1Ctrl/L_fingers_jnt_2grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_fingers_jnt_0grp/L_fingers_jnt_0Ctrl/L_fingers_jnt_1grp/L_fingers_jnt_1Ctrl/L_fingers_jnt_2grp/L_fingers_jnt_2Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_thumb_0grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_thumb_0grp/L_thumb_0Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_thumb_0grp/L_thumb_0Ctrl/L_thumb_1grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_thumb_0grp/L_thumb_0Ctrl/L_thumb_1grp/L_thumb_1Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_thumb_0grp/L_thumb_0Ctrl/L_thumb_1grp/L_thumb_1Ctrl/L_thumb_2grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/L_Wrist_loc/L_thumb_0grp/L_thumb_0Ctrl/L_thumb_1grp/L_thumb_1Ctrl/L_thumb_2grp/L_thumb_2Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_hand_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_hand_ctrl_grp/R_hand_ctrl
+    m_Weight: 1
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_hand_ctrl_grp/R_hand_ctrl/CUCHILLOTE_SOLO_PAL_GUSTAMCOCK:Cuchillo_001
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_fingers_jnt_0grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_fingers_jnt_0grp/R_fingers_jnt_0Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_fingers_jnt_0grp/R_fingers_jnt_0Ctrl/R_fingers_jnt_1grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_fingers_jnt_0grp/R_fingers_jnt_0Ctrl/R_fingers_jnt_1grp/R_fingers_jnt_1Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_fingers_jnt_0grp/R_fingers_jnt_0Ctrl/R_fingers_jnt_1grp/R_fingers_jnt_1Ctrl/R_fingers_jnt_2grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_fingers_jnt_0grp/R_fingers_jnt_0Ctrl/R_fingers_jnt_1grp/R_fingers_jnt_1Ctrl/R_fingers_jnt_2grp/R_fingers_jnt_2Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_thumb_0grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_thumb_0grp/R_thumb_0Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_thumb_0grp/R_thumb_0Ctrl/R_thumb_1grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_thumb_0grp/R_thumb_0Ctrl/R_thumb_1grp/R_thumb_1Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_thumb_0grp/R_thumb_0Ctrl/R_thumb_1grp/R_thumb_1Ctrl/R_thumb_2grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/R_Wrist_loc/R_thumb_0grp/R_thumb_0Ctrl/R_thumb_1grp/R_thumb_1Ctrl/R_thumb_2grp/R_thumb_2Ctrl
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Root_ctrl_grp
+    m_Weight: 0
+  - m_Path: Master_ctrl_grp/Master_ctrl/Root_ctrl_grp/Root_ctrl
+    m_Weight: 0
+  - m_Path: Root_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/L_hip_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/L_hip_jnt/L_knee_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/L_hip_jnt/L_knee_jnt/L_ankle_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/L_hip_jnt/L_knee_jnt/L_ankle_jnt/L_ball_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/L_hip_jnt/L_knee_jnt/L_ankle_jnt/L_ball_jnt/L_toe_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/R_hip_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/R_hip_jnt/R_knee_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/R_hip_jnt/R_knee_jnt/R_ankle_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/R_hip_jnt/R_knee_jnt/R_ankle_jnt/R_ball_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Pelv_jnt/R_hip_jnt/R_knee_jnt/R_ankle_jnt/R_ball_jnt/R_toe_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/Head_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt/L_fingers_jnt_0
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt/L_fingers_jnt_0/L_fingers_jnt_1
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt/L_fingers_jnt_0/L_fingers_jnt_1/L_fingers_jnt_2
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt/L_thumb_0
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt/L_thumb_0/L_thumb_1
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/L_clavicle/L_shoulder_jnt/L_elbow_jnt/L_wrist_jnt/L_thumb_0/L_thumb_1/L_thumb_2
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt/R_fingers_jnt_0
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt/R_fingers_jnt_0/R_fingers_jnt_1
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt/R_fingers_jnt_0/R_fingers_jnt_1/R_fingers_jnt_2
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt/R_thumb_0
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt/R_thumb_0/R_thumb_1
+    m_Weight: 1
+  - m_Path: Root_jnt/Center_jnt/Spine1_jnt/Spine2_jnt/Chest_jnt/R_clavicle/R_shoulder_jnt/R_elbow_jnt/R_wrist_jnt/R_thumb_0/R_thumb_1/R_thumb_2
+    m_Weight: 1
