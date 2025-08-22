@@ -11311,9 +11311,21 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[0].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: db68cb600f6e5194dac4304637f388af, type: 3}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
       propertyPath: sonidos.Array.data[0].loop
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[1].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2c562b8d2f4ffed40958a16a0bdb8d56, type: 3}
     - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
       propertyPath: sonidos.Array.data[1].loop
       value: 1
@@ -11323,12 +11335,36 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: 8891fbf9d63fc6144b2c2d194e2e316a, type: 3}
     - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[2].loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
       propertyPath: sonidos.Array.data[3].clip
       value: 
-      objectReference: {fileID: 8300000, guid: 727a5947ec45fb54b82cc57d17e4bc12, type: 3}
+      objectReference: {fileID: 8300000, guid: 7146f9bd97116054e8de920f921be6fe, type: 3}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[3].loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[4].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: f8f751d6eb0673c48810e8fc5a5e318f, type: 3}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[4].loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[0].nombre
+      value: Estandar
+      objectReference: {fileID: 0}
     - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
       propertyPath: sonidos.Array.data[0].volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[1].nombre
+      value: Gustambo
       objectReference: {fileID: 0}
     - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
       propertyPath: sonidos.Array.data[1].volume
@@ -11348,6 +11384,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
       propertyPath: sonidos.Array.data[3].volume
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[4].nombre
+      value: Combate
+      objectReference: {fileID: 0}
+    - target: {fileID: 2567314426986764534, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}
+      propertyPath: sonidos.Array.data[4].volume
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2879316547202215303, guid: 5f6b342ae2fd9c04d9976e34ac942400, type: 3}

@@ -49,8 +49,10 @@ public class Enemigo : MonoBehaviour
         {
             if(!musicStart)
             {
-                AudioManager.Instance.Play("Candy");
-                AudioManager.Instance.Stop("Happy");
+                AudioManager.Instance.Stop("Normal");
+                AudioManager.Instance.Play("Zombie");
+                AudioManager.Instance.Play("Combate");
+
                 musicStart = true;
             }
          

@@ -52,12 +52,6 @@ public class Blaster : MonoBehaviour
                     }
                 }
 
-                //if (hit.transform.CompareTag("Chofer"))
-                //{
-                //    chofer.Add(hit.transform.gameObject);
-                //    chofer[^1].SetActive(false);
-                //}
-
                 if (hit.transform.CompareTag("Enemy"))
                 {
                     hit.rigidbody.AddForceAtPosition(sootPoint.forward * fuerza, hit.point);
