@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
 
     public int dinero;
     public bool activo = true;
+    public int enemigos;
 
     public int colect;
 
@@ -31,6 +32,26 @@ public class GameManager : MonoBehaviour
         else
         {
             Destroy(this.gameObject);
+        }
+    }
+
+    private void Update()
+    {
+
+        // Aqui esta contando los objetos con el tag de Enemy
+        enemigos = GameObject.FindGameObjectsWithTag("Enemy").Length;
+
+    }
+
+    private void OnTriggerEnter(Collider collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            if (enemigos == 0)
+            {
+                SceneManager.LoadScene("Creditos");
+            }
+
         }
     }
 
